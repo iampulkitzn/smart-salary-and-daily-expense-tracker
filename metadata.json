@@ -1,0 +1,6 @@
+{
+  "name": "RupeeLedger — Smart Salary & Daily Expense Manager",
+  "description": "Personal finance management system for monthly salary planning, automatic daily spending limits, category budgets, and savings analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
